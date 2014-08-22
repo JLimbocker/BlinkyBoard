@@ -1,4 +1,4 @@
-BlinkyBoard
+BlinkyBoard_v1
 ===========
 
-This is the firmware for the SMU Innovation Gym Blinky Board.
+These are the design files for revision one of the BlinkyBoard
